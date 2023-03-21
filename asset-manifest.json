@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wikipedia/static/css/main.9193911e.css",
+    "main.js": "/wikipedia/static/js/main.9629f708.js",
+    "static/js/787.d477f4e7.chunk.js": "/wikipedia/static/js/787.d477f4e7.chunk.js",
+    "static/media/Wiki.jpg": "/wikipedia/static/media/Wiki.02354725bdf59522350a.jpg",
+    "index.html": "/wikipedia/index.html",
+    "main.9193911e.css.map": "/wikipedia/static/css/main.9193911e.css.map",
+    "main.9629f708.js.map": "/wikipedia/static/js/main.9629f708.js.map",
+    "787.d477f4e7.chunk.js.map": "/wikipedia/static/js/787.d477f4e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9193911e.css",
+    "static/js/main.9629f708.js"
+  ]
+}
